@@ -14,3 +14,11 @@ I did it in the best way that I know, celebrating the victory of Italy analyzing
 In this article I am analyzing by number how Italy played during the tournament and what statistics tell about the performance.  
 
 Let’s Start. 
+
+**N.B. All statistics and graphs were generated from the analysis of dataframes released free by 
+Statsbomb to whom I send a big thank you.**
+
+**N.B. The player statistics reported, unless otherwise indicated, only take into account players 
+who have played at least 180 total minutes in the entire competition. 
+And as will be reported they are normalized either for 90 minutes or for possession and for 90 
+minutes.**
