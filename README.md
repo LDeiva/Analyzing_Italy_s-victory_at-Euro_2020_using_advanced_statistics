@@ -3,7 +3,7 @@ Using Statsbomb Data i calculated many advanced statistics to describe from a st
 
 
 
-#Did Italy deserve to win Euro 2020? 
+# Did Italy deserve to win Euro 2020? 
 
 Euro 2024 has come to an end and Italy played a terrible tournament, passing the groups in an 
 
@@ -24,4 +24,5 @@ luck.
 In this article I am analyzing by number how Italy played during the tournament and what statistics 
 
 tell about the performance.  
+
 Let’s Start. 
