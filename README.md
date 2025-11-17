@@ -39,19 +39,19 @@ But it gave the best in defense, positioning like the best defense of the group 
 
 In addiction of the quality of actions Italy generated a big volume of shots positioning like the best Team for Shots every 90 Minute (19.42 Shots P90) and for non penalty Shots on target (6.15 npShots on target P90).
 
-<img width="399" height="294" alt="Italy Shots Map Group Stage" src="https://github.com/user-attachments/assets/91b0df0a-3194-44ee-9490-11d8867f6ea7" />
+<img width="558" height="411" alt="Italy Shots Map Group Stage" src="https://github.com/user-attachments/assets/7ceede83-89ad-400e-9bbf-7ba93d6fe707" />
 
 It was the second Team after Spain for fewer Shots conceded every 90 minutes (3.88 Shots allowed P90) and the third for fewer non penalty shots conceded (3.88 npShots allowed P90). 
 
 It was also the second Team for fewer shots and non penalty shots on target conceded (0.64 Shots and npshots allowed P90). 
 
-<img width="414" height="305" alt="Italy Shots Conceded Map Group Stage" src="https://github.com/user-attachments/assets/2b464e07-272d-48e7-9581-c9a129cde820" />
+<img width="511" height="377" alt="Italy Shots Conceded Map Group Stage" src="https://github.com/user-attachments/assets/9a54f1b4-6009-4d14-8a5f-0ad6f14b7c88" />
 
 Let’s analyze the tactical principes that allow Italy to obtain this domain. 
 
 Idea was the control of the matches by the possession of the ball, indeed it was the third team for Possession Percentage during group stage. 
 
-<img width="242" height="194" alt="Team Possession % Group Stage" src="https://github.com/user-attachments/assets/698f6fa2-686f-4caa-bb38-963177f88c96" />
+<img width="416" height="333" alt="Team Possession % Group Stage" src="https://github.com/user-attachments/assets/2397372a-575c-4de8-b548-291fabf36e9c" />
 
 Italy used massively the construction from below, Italy was the Team with lower mean pass lenght for goal kick (15,8 m), and Donnarumma was the goalkeeper with the lower mean length pass after Unai Simon (Spain). 
 
@@ -59,11 +59,11 @@ Italy tended to build actions with two central back, the right wing back and the
 
 In the following plots the positions of player in possession phase is clearly show. 
 
-<img width="196" height="162" alt="Pass network Italy vs Wales" src="https://github.com/user-attachments/assets/2245cf96-b066-484f-90b4-7dbcdc434f2d" />
+<img width="394" height="327" alt="Pass network Italy vs Wales" src="https://github.com/user-attachments/assets/d7c14cf6-7181-4d35-aa58-946b237c74b5" />
 
-<img width="195" height="162" alt="Pass network Turkey vs Italy" src="https://github.com/user-attachments/assets/cd305128-384e-4ff2-b7d8-d816f69f8172" />
+<img width="379" height="315" alt="Pass network Turkey vs Italy" src="https://github.com/user-attachments/assets/eb32a20e-7276-4133-a0bd-0466ed518118" />
 
-<img width="203" height="166" alt="Pass network Italy vs Switzerland" src="https://github.com/user-attachments/assets/cd2ec49c-439e-495e-b631-c52c02712784" />
+<img width="361" height="295" alt="Pass network Italy vs Switzerland" src="https://github.com/user-attachments/assets/461bb0eb-ee62-49b6-af66-5761b24b4737" />
 
 *In Pass networks of Group Stage matches of Italy is clearly show that Italy carried most of its players in the opponent part of pitch. (Pass networks show connections before the first replacement.)*
 
@@ -81,17 +81,17 @@ Once they arrived in the opponent's three-quarters, Italy set up tents and gaine
 
 Italy was also the third team for attempted and successful passes in final third every 90 minutes and the fourth team for touches in final third and in box every 90 minutes.
 
-<img width="320" height="256" alt="Field Tilt Group Stage" src="https://github.com/user-attachments/assets/9401b61e-1df3-43de-b8a1-c69001b78c4a" />
+<img width="422" height="338" alt="Field Tilt Group Stage" src="https://github.com/user-attachments/assets/1bf679d8-1f7e-4ae4-95a3-eb7ea714a647" />
 
 Once arrived in opponents three-quarter Italy tended to enter in opposite area in different ways.
 
 Italy preferred to enter in opposite area by passes from the middle of the pitch, using cross and carries from the side.
 
-<img width="316" height="230" alt="Italy Pass into opponent area Group Stage" src="https://github.com/user-attachments/assets/08379ffb-c2bf-4851-8a50-684d3a29b599" />
+<img width="389" height="283" alt="Italy Pass into opponent area Group Stage" src="https://github.com/user-attachments/assets/416ffc82-ae17-4dba-95f1-d4ef6ff6e149" />
 
 *The colors help us to see from wich parts of the pitch Italy entered in area with passes or crosses.*
 
-<img width="268" height="216" alt="Italy Carry into opponent area Group Stage" src="https://github.com/user-attachments/assets/8371b95e-6700-4b8b-97a6-9999bb72b139" />
+<img width="454" height="365" alt="Italy Carry into opponent area Group Stage" src="https://github.com/user-attachments/assets/2a945a32-cfa3-4ca0-8a23-c359047c3ff8" />
 
 *Map of carries into opponent area by Italy.* 
 
@@ -104,17 +104,17 @@ These players are Federico Chiesa and Domenico Berardi with 9 and 5.3 progressiv
 
 Regarding attitude in non-possession phase of Italy tended to pressed infrequently (only four teams pressed less than Italy in group stage (98.4 Pressures P90)), but it was the second team for mean pressure height (60 m). Italy tended to attack as soon as the ball is lost, fourth team for counterpressures (33.3 P90), but in this case tended to it far from the opponent's area ninth team for lower mean conterpressure height (70 m).  
 
-<img width="305" height="224" alt="Italy Counterpressure zone group stage" src="https://github.com/user-attachments/assets/0b20b1bb-3d9c-4764-becd-8754fbb88c81" />
+<img width="452" height="333" alt="Italy Counterpressure zone group stage" src="https://github.com/user-attachments/assets/34f593b4-22f8-475e-a8db-de5fabe781f9" />
 
 *Italy tended to recovery ball in 3/4 part of the pitch.*
 
 In generally the effect of pressure and counterpressure aren’t very effective, only 6 teams recovered fewer balls than Italy through pressure (13.5 P90) and PPDA is not among the lower.
 
-<img width="340" height="272" alt="PPDA Group Stage" src="https://github.com/user-attachments/assets/5966ed0e-a12a-4b6f-9e98-3e8209658bac" />
+<img width="495" height="396" alt="PPDA Group Stage" src="https://github.com/user-attachments/assets/b99f71e9-376c-49f4-86c9-4b6b77fd67e2" />
 
 Rearding defensive actions Italy was one of team with higher ADD.
 
-<img width="317" height="254" alt="ADD Group Stage" src="https://github.com/user-attachments/assets/e0abf14a-1f06-4799-b6d9-8a8a2ca97cf0" />
+<img width="476" height="381" alt="ADD Group Stage" src="https://github.com/user-attachments/assets/db400e75-b9f8-4551-8394-afa606b8e616" />
 
 In fact was the eighth team for mean recovery height (56.6 m) and despite not being among the teams that have recovered the most balls (Italy is eleventh in this statistic) when they have done a good percentage were in the opposition's half of the field 47 % or in their opponents' Third 30% (seventh Team for Balls recovered in opponent half and sixth for balls recovered in final Third). 
 
@@ -143,7 +143,7 @@ Italy suffered the infernal pressure of Austria indeed it was the match with hig
 
 Austria tended to use counterpressure in the opposite half how it is clearly showed in the following plot. 
 
-<img width="391" height="288" alt="Austria Counterpressure zone" src="https://github.com/user-attachments/assets/fef16871-2df5-4358-ad40-70d0f62a365e" />
+<img width="496" height="365" alt="Austria Counterpressure zone" src="https://github.com/user-attachments/assets/9dd602e7-d5ff-4757-82e0-e88f3f912c52" />
 
 *Heatmap show how Austria try to recovery ball faster after loss above the midfield or close to the area*
 
@@ -162,7 +162,7 @@ He was the player who produced the most progressive carries (12) during the matc
 Doku has played less than 180 minutes (he has only played 172), but taking this into consideration he would be positioned as the player who has carried out the most progressive carries (10.9 P90) and attempted and completed the most dribbles (9.9 and 5.2 P90 respectively) during competition. 
 It also caused the penalty that led Belgium to score their only goal. 
 
-<img width="335" height="278" alt="Belgium Pass network Italy vs Belgium" src="https://github.com/user-attachments/assets/99b6b310-85ed-44b3-bf1f-9ec20212e592" />
+<img width="453" height="376" alt="Belgium Pass network Italy vs Belgium" src="https://github.com/user-attachments/assets/1065e149-1cc7-478e-b06b-87fee688a056" />
 
 *From the passing map it is clear that Doku was the player who received the highest of the pitch among the Belgian players, allowing him to create dangers near the Italian area with his dribbling and caries. 
 (Pass network show connections before the first replacement).*
@@ -195,7 +195,7 @@ Chiellini's exceptional nature in the defensive phase can be seen in the data, s
 He is in fact in the 98th percentile for Tackles won in the penalty area adjusted per possession per 90 minutes (1.18 PAdj90) and the player who stopped the most dribbles in the penalty area per 90 minutes (0.79 P90) with 100% success (Chiellini was never dribbled past during the tournament) on the total and finally he 100% of aerial duels won in the penalty area. 
 All this at 36 years old after a cruciate injury. 
 
-<img width="482" height="336" alt="Chiellini defensive map" src="https://github.com/user-attachments/assets/c5a60d62-0a9f-47f3-b826-73a4bc2c7e71" />
+<img width="569" height="396" alt="Chiellini defensive map" src="https://github.com/user-attachments/assets/9675049d-cb5d-4d26-8000-b6fc79884845" />
 
 *The map of Chiellini's defensive actions during Euro 2020*
 
@@ -209,7 +209,7 @@ Ultimately, despite the level of their opponents, Italy produced more npXG than 
 
 Creating 1.52 npXG vs 1.04 npXG against Austria and 1.04 npXG vs 1.01 npXG against Belgium.
 
-<img width="374" height="291" alt="Spinazzola progressive passes" src="https://github.com/user-attachments/assets/44c1381b-e075-42f6-a7dc-84606e2b4354" />
+<img width="487" height="378" alt="Spinazzola progressive passes" src="https://github.com/user-attachments/assets/a7208dc8-6d6e-498a-8d2f-487cbc1d8912" />
 
 *The map of Spinazzola's Progressive carries during Euro 2020*
 
@@ -226,7 +226,7 @@ In fact, they recorded the lowest ball possession percentage of the tournament, 
 
 They also lost territorial dominance, lowering the Field Tilt from an average of 61.5% during the tournament to 24.6% and struggling to enter the opponent's area as demonstrated by only 23 touches in the opponent's area compared to the 42 averaged during tournament.
 
-<img width="405" height="309" alt="Italy Pass network Italy vs Spain" src="https://github.com/user-attachments/assets/f74aa05a-0034-443f-b95a-d5f0c35898ce" />
+<img width="521" height="397" alt="Italy Pass network Italy vs Spain" src="https://github.com/user-attachments/assets/3f1b5045-7a37-4d6e-96cc-7ba092be5b16" />
 
 *The pass map also shows how the Italian players had to keep an average position lower than usual, staying on average in their half of the pitch.*
 *The average position went from 63.8 m in possession to 55 m during the match. (Pass network show connections before the first replacement)*
@@ -235,7 +235,7 @@ Even in the defensive phase, Italy was unable to challenge Spain for possession 
 
 The difficulties encountered against Spain were predictable, in fact from many points of view they were the best team of the tournament. It is the one that recorded the highest percentage of ball possession (71.7 %) and Field Tilt (82.6 %) and it is the one that held the highest average position during the possession phase (66.7 m) and finally it is the one that recorded the highest number of touches in the opponent's third of the field(316.8 P90) and in the opponent's area (58.5 P90) per 90 minutes.
 
-<img width="359" height="287" alt="Fild Tilt for Team Euro 2020" src="https://github.com/user-attachments/assets/7a422a92-89eb-40aa-bf66-e23b0c0705fa" />
+<img width="493" height="394" alt="Fild Tilt for Team Euro 2020" src="https://github.com/user-attachments/assets/256388e5-4fc1-4375-b7cd-168ffd5549f3" />
 
 Even in the defensive phase they were among the best, placing themselves as the team with the lowest PPDA of the tournament (4.9) and the highest ADD (58.9 m), showing high intensity without the ball and a willingness to recover the ball quickly and close to the area opponent's penalty, pressing right from the first opponent's construction. In fact it was the first for average height in pressing (58.7 m) and for ball recovery (61 m) tied with Poland in the latter statistic. 
 
@@ -260,7 +260,7 @@ Even though Italy finished the first half behind, they did not give up and, cont
 
 An interesting fact relating to the final is that after the goal conceded, Italy did not concede any shots on target to England. 
 
-<img width="536" height="395" alt="Italy Shots conceded vs England" src="https://github.com/user-attachments/assets/f4fd0241-b91e-48d8-8ea3-7e7d9296e694" />
+<img width="536" height="395" alt="Italy Shots conceded vs England" src="https://github.com/user-attachments/assets/4fe00422-3ba2-48cb-9ba7-e34617ba6c62" />
 
 *Map of shots conceded by Italy in the final, excluding the goal of the other shots, no one is on target*
 
