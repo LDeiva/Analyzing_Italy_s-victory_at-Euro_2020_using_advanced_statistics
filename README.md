@@ -38,3 +38,41 @@ Exluding penalty (Italy had no penalty in favor during group stage) Italy every 
 But it gave the best in defense, positioning like the best defense of the group stage (0.23 XG and npXG P90) and with 0 Goal conceded.
 
 In addiction of the quality of actions Italy generated a big volume of shots positioning like the best Team for Shots every 90 Minute (19.42 Shots P90) and for non penalty Shots on target (6.15 npShots on target P90).
+
+<img width="399" height="294" alt="Italy Shots Map Group Stage" src="https://github.com/user-attachments/assets/91b0df0a-3194-44ee-9490-11d8867f6ea7" />
+
+It was the second Team after Spain for fewer Shots conceded every 90 minutes (3.88 Shots allowed P90) and the third for fewer non penalty shots conceded (3.88 npShots allowed P90). 
+
+It was also the second Team for fewer shots and non penalty shots on target conceded (0.64 Shots and npshots allowed P90). 
+
+<img width="414" height="305" alt="Italy Shots Conceded Map Group Stage" src="https://github.com/user-attachments/assets/2b464e07-272d-48e7-9581-c9a129cde820" />
+
+Let’s analyze the tactical principes that allow Italy to obtain this domain. 
+
+Idea was the control of the matches by the possession of the ball, indeed it was the third team for Possession Percentage during group stage. 
+
+<img width="242" height="194" alt="Team Possession % Group Stage" src="https://github.com/user-attachments/assets/698f6fa2-686f-4caa-bb38-963177f88c96" />
+
+Italy used massively the construction from below, Italy was the Team with lower mean pass lenght for goal kick (15,8 m), and Donnarumma was the goalkeeper with the lower mean length pass after Unai Simon (Spain). 
+
+Italy tended to build actions with two central back, the right wing back and the support of a midfielder (Jorginho) bringing the other players into the opposing three-quarters. 
+
+In the following plots the positions of player in possession phase is clearly show. 
+
+<img width="196" height="162" alt="Pass network Italy vs Wales" src="https://github.com/user-attachments/assets/2245cf96-b066-484f-90b4-7dbcdc434f2d" />
+
+<img width="195" height="162" alt="Pass network Turkey vs Italy" src="https://github.com/user-attachments/assets/cd305128-384e-4ff2-b7d8-d816f69f8172" />
+
+<img width="203" height="166" alt="Pass network Italy vs Switzerland" src="https://github.com/user-attachments/assets/cd2ec49c-439e-495e-b631-c52c02712784" />
+
+*In Pass networks of Group Stage matches of Italy is clearly show that Italy carried most of its players in the opponent part of pitch. (Pass networks show connections before the first replacement.)*
+
+Another proof of the tendency to build from the bottom is visible from the map of balls received by players. 
+
+<img width="275" height="424" alt="Ball Receipt zone for Italy Group Stage" src="https://github.com/user-attachments/assets/d30ee09b-14ed-489e-8bc7-2a1558041ced" />
+
+*It is clearly that Italy started actions mainly from the bottom and subsequently passed the ball to the players in the opposite half.*
+
+The players with the greatest responsibility in getting the ball to the players positioned in the last third of the pitch were Jorginho and Bonucci. 
+
+They were the players with more Balls received among Italian players (62.9 and 61.9 P90 respectively) and Jorginho was first player among Italian players and in the 91th percentile (among the players that played more 180 minutes in group stage, goalkeepers excluded) for Successful passes in final third and Bonucci was in 95th percentile regarding Progressive successful passes in final third (he was the ninth player for progressive passes in final third P90 during Group stage).
