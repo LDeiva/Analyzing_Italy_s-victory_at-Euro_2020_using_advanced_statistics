@@ -141,6 +141,7 @@ Italy suffered the infernal pressure of Austria indeed it was the match with hig
 Austria tended to use counterpressure in the opposite half how it is clearly showed in the following plot. 
 
 <img width="391" height="288" alt="Austria Counterpressure zone" src="https://github.com/user-attachments/assets/fef16871-2df5-4358-ad40-70d0f62a365e" />
+
 *Heatmap show how Austria try to recovery ball faster after loss above the midfield or close to the area*
 
 Counterpressures was very effective during competitions, first team for balls recovered within 5 seconds of loss every 90 minutes (27.3 P90). 
@@ -159,6 +160,7 @@ Doku has played less than 180 minutes (he has only played 172), but taking this 
 It also caused the penalty that led Belgium to score their only goal. 
 
 <img width="335" height="278" alt="Belgium Pass network Italy vs Belgium" src="https://github.com/user-attachments/assets/99b6b310-85ed-44b3-bf1f-9ec20212e592" />
+
 *From the passing map it is clear that Doku was the player who received the highest of the pitch among the Belgian players, allowing him to create dangers near the Italian area with his dribbling and caries. 
 (Pass network show connections before the first replacement).*
 
@@ -191,6 +193,7 @@ He is in fact in the 98th percentile for Tackles won in the penalty area adjuste
 All this at 36 years old after a cruciate injury. 
 
 <img width="482" height="336" alt="Chiellini defensive map" src="https://github.com/user-attachments/assets/c5a60d62-0a9f-47f3-b826-73a4bc2c7e71" />
+
 *The map of Chiellini's defensive actions during Euro 2020*
 
 Lorenzo Insigne's goal was also fundamental against Belgium, but his contribution went further. 
@@ -204,6 +207,7 @@ Ultimately, despite the level of their opponents, Italy produced more npXG than 
 Creating 1.52 npXG vs 1.04 npXG against Austria and 1.04 npXG vs 1.01 npXG against Belgium.
 
 <img width="374" height="291" alt="Spinazzola progressive passes" src="https://github.com/user-attachments/assets/44c1381b-e075-42f6-a7dc-84606e2b4354" />
+
 *The map of Spinazzola's Progressive carries during Euro 2020*
 
 Luck certainly also played an important role in allowing the two rounds to pass, without the goal disallowed by Arnautovic for a few millimeters or the magnificent one scored by Federico Chiesa and the Spinazzola's save on Lukaku's shooting line the excellent performance of Mancini's boys probably wouldn't have been enough.
@@ -220,6 +224,7 @@ In fact, they recorded the lowest ball possession percentage of the tournament, 
 They also lost territorial dominance, lowering the Field Tilt from an average of 61.5% during the tournament to 24.6% and struggling to enter the opponent's area as demonstrated by only 23 touches in the opponent's area compared to the 42 averaged during tournament.
 
 <img width="405" height="309" alt="Italy Pass network Italy vs Spain" src="https://github.com/user-attachments/assets/f74aa05a-0034-443f-b95a-d5f0c35898ce" />
+
 *The pass map also shows how the Italian players had to keep an average position lower than usual, staying on average in their half of the pitch.*
 *The average position went from 63.8 m in possession to 55 m during the match. (Pass network show connections before the first replacement)*
 
@@ -253,6 +258,7 @@ Even though Italy finished the first half behind, they did not give up and, cont
 An interesting fact relating to the final is that after the goal conceded, Italy did not concede any shots on target to England. 
 
 <img width="390" height="287" alt="Italy Shots conceded vs England" src="https://github.com/user-attachments/assets/d244574c-6a1b-4ad2-b15f-11fcb8d88a11" />
+
 *Map of shots conceded by Italy in the final, excluding the goal of the other shots, no one is on target*
 
 In fact, Italy's offensive production was significantly higher then England as shown by the XG data. 
@@ -274,6 +280,7 @@ They ranked as the team that conceded the least XG (0.66 P90) and least npXG (0.
 Furthermore, they were the team that conceded the fewest shots on target (1.58 P90) and the fewest non-penalty shots on target (1.46 P90) per 90 minutes.
 
 <img width="482" height="211" alt="Team Xg e XGA Euro 2020" src="https://github.com/user-attachments/assets/505405e3-bdcd-4320-801e-b6fbdfa09db4" />
+
 *Italy is the team that has conceded the fewest npXG and Shots on Targhet excluding penalties.*
 
 Also regarding goals conceded, Italy was the team that conceded the fewest after England and fewer goals per 90 minutes than expected.
