@@ -282,7 +282,7 @@ In fact, as had already happened during the group stage, overall they were the t
 They ranked as the team that conceded the least XG (0.66 P90) and least npXG (0.56 P90) per 90 minutes. 
 Furthermore, they were the team that conceded the fewest shots on target (1.58 P90) and the fewest non-penalty shots on target (1.46 P90) per 90 minutes.
 
-<img width="482" height="211" alt="Team Xg e XGA Euro 2020" src="https://github.com/user-attachments/assets/505405e3-bdcd-4320-801e-b6fbdfa09db4" width="1000" height="500">
+<img width="746" height="327" alt="Team Xg e XGA Euro 2020" src="https://github.com/user-attachments/assets/cbdcd0c8-e82b-4618-9be1-deca86792ff2" />
 
 *Italy is the team that has conceded the fewest npXG and Shots on Targhet excluding penalties.*
 
