@@ -260,7 +260,7 @@ Even though Italy finished the first half behind, they did not give up and, cont
 
 An interesting fact relating to the final is that after the goal conceded, Italy did not concede any shots on target to England. 
 
-<img width="390" height="287" alt="Italy Shots conceded vs England" src="https://github.com/user-attachments/assets/d244574c-6a1b-4ad2-b15f-11fcb8d88a11" />
+<img width="536" height="395" alt="Italy Shots conceded vs England" src="https://github.com/user-attachments/assets/f4fd0241-b91e-48d8-8ea3-7e7d9296e694" />
 
 *Map of shots conceded by Italy in the final, excluding the goal of the other shots, no one is on target*
 
