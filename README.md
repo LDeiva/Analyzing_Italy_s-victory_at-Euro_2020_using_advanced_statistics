@@ -105,6 +105,7 @@ These players are Federico Chiesa and Domenico Berardi with 9 and 5.3 progressiv
 Regarding attitude in non-possession phase of Italy tended to pressed infrequently (only four teams pressed less than Italy in group stage (98.4 Pressures P90)), but it was the second team for mean pressure height (60 m). Italy tended to attack as soon as the ball is lost, fourth team for counterpressures (33.3 P90), but in this case tended to it far from the opponent's area ninth team for lower mean conterpressure height (70 m).  
 
 <img width="305" height="224" alt="Italy Counterpressure zone group stage" src="https://github.com/user-attachments/assets/0b20b1bb-3d9c-4764-becd-8754fbb88c81" />
+
 *Italy tended to recovery ball in 3/4 part of the pitch.*
 
 In generally the effect of pressure and counterpressure aren’t very effective, only 6 teams recovered fewer balls than Italy through pressure (13.5 P90) and PPDA is not among the lower.
