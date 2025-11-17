@@ -88,9 +88,11 @@ Once arrived in opponents three-quarter Italy tended to enter in opposite area i
 Italy preferred to enter in opposite area by passes from the middle of the pitch, using cross and carries from the side.
 
 <img width="316" height="230" alt="Italy Pass into opponent area Group Stage" src="https://github.com/user-attachments/assets/08379ffb-c2bf-4851-8a50-684d3a29b599" />
+
 *The colors help us to see from wich parts of the pitch Italy entered in area with passes or crosses.*
 
 <img width="268" height="216" alt="Italy Carry into opponent area Group Stage" src="https://github.com/user-attachments/assets/8371b95e-6700-4b8b-97a6-9999bb72b139" />
+
 *Map of carries into opponent area by Italy.* 
 
 Italy was the team that used mostly carries to enter in area (9.4 carry into area P90).
