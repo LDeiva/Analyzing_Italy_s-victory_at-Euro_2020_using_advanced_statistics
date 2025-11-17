@@ -76,3 +76,214 @@ Another proof of the tendency to build from the bottom is visible from the map o
 The players with the greatest responsibility in getting the ball to the players positioned in the last third of the pitch were Jorginho and Bonucci. 
 
 They were the players with more Balls received among Italian players (62.9 and 61.9 P90 respectively) and Jorginho was first player among Italian players and in the 91th percentile (among the players that played more 180 minutes in group stage, goalkeepers excluded) for Successful passes in final third and Bonucci was in 95th percentile regarding Progressive successful passes in final third (he was the ninth player for progressive passes in final third P90 during Group stage).
+
+Once they arrived in the opponent's three-quarters, Italy set up tents and gained territorial supremacy, it was the Third Team for Field Tilt after Spain and Germany during Group Stage.
+
+Italy was also the third team for attempted and successful passes in final third every 90 minutes and the fourth team for touches in final third and in box every 90 minutes.
+
+<img width="320" height="256" alt="Field Tilt Group Stage" src="https://github.com/user-attachments/assets/9401b61e-1df3-43de-b8a1-c69001b78c4a" />
+
+Once arrived in opponents three-quarter Italy tended to enter in opposite area in different ways.
+
+Italy preferred to enter in opposite area by passes from the middle of the pitch, using cross and carries from the side.
+
+<img width="316" height="230" alt="Italy Pass into opponent area Group Stage" src="https://github.com/user-attachments/assets/08379ffb-c2bf-4851-8a50-684d3a29b599" />
+*The colors help us to see from wich parts of the pitch Italy entered in area with passes or crosses.*
+
+<img width="268" height="216" alt="Italy Carry into opponent area Group Stage" src="https://github.com/user-attachments/assets/8371b95e-6700-4b8b-97a6-9999bb72b139" />
+*Map of carries into opponent area by Italy.* 
+
+Italy was the team that used mostly carries to enter in area (9.4 carry into area P90).
+
+Spinazzola made a great contribution positioning in 98 percentile (among the players that played more 180 minutes in group stage, goalkeepers excluded) for carries into area (2.90 P90) and for progressive carries (5.3 P90) and for Attempted dribbling (4.3 P90) and Successful dribbling (2.90 P90) during group stage, allowing to Italy to go up the pitch in different ways.
+
+In generally Italy used a lot progressive carries (24.6 P90) seconds Team after Ukraine for progressive carries, and if we consider player who played 180 minutes or less In addition to Spinazzola, for Italy we also find other players in the 90th percentile for progressive runs and runs inside the opponent's area.
+These players are Federico Chiesa and Domenico Berardi with 9 and 5.3 progressive carries P90 respectively, and in addition to the ones just mentioned also insigne with 2.7, 2.3 and 3 carries into area P90 respectively.
+
+Regarding attitude in non-possession phase of Italy tended to pressed infrequently (only four teams pressed less than Italy in group stage (98.4 Pressures P90)), but it was the second team for mean pressure height (60 m). Italy tended to attack as soon as the ball is lost, fourth team for counterpressures (33.3 P90), but in this case tended to it far from the opponent's area ninth team for lower mean conterpressure height (70 m).  
+
+<img width="305" height="224" alt="Italy Counterpressure zone group stage" src="https://github.com/user-attachments/assets/0b20b1bb-3d9c-4764-becd-8754fbb88c81" />
+*Italy tended to recovery ball in 3/4 part of the pitch.*
+
+In generally the effect of pressure and counterpressure aren’t very effective, only 6 teams recovered fewer balls than Italy through pressure (13.5 P90) and PPDA is not among the lower.
+
+<img width="340" height="272" alt="PPDA Group Stage" src="https://github.com/user-attachments/assets/5966ed0e-a12a-4b6f-9e98-3e8209658bac" />
+
+Rearding defensive actions Italy was one of team with higher ADD.
+
+<img width="317" height="254" alt="ADD Group Stage" src="https://github.com/user-attachments/assets/e0abf14a-1f06-4799-b6d9-8a8a2ca97cf0" />
+
+In fact was the eighth team for mean recovery height (56.6 m) and despite not being among the teams that have recovered the most balls (Italy is eleventh in this statistic) when they have done a good percentage were in the opposition's half of the field 47 % or in their opponents' Third 30% (seventh Team for Balls recovered in opponent half and sixth for balls recovered in final Third). 
+
+The idea of recovering the ball quickly once lost worked by preventing the opponents from approaching their penalty area. 
+In fact, Italy was the fourth team in the Group Stage for the fewest number of touches allowed to their opponents in the final third of the pitch (74.8 P90) and in the area (15.8 P90). 
+It was also the fifth Team after Spain, England, Germany and France for fewest Deep pass Completition allowed (11 P90) showing the ability to keep the ball away from his own 16 metres. 
+
+At the end of analysis is clear Italy playing style, it tried to dominate the match by a reasoned control of the ball bringing many men into the opponent's half of the pitch to gain a positional advantage connected its best players even when not in possession, taking advantage of the many men in the ball area to aggressively recover the ball in areas far from one's own goal but close to the opponent's.
+
+It was the secret of its domain during Group stage of Euro 2020. 
+
+## Round of 16 and quarter finals. 
+
+The round of 16 and quarter finals saw Italy face Austria and Belgium respectively. 
+
+They were two Teams with different features, Unlike Belgium, Austria's strength lies in the non-ball 
+possession phase. 
+
+For Italy wasn’t easy pass the turn due to the attitude of the Austrians during the non-possession 
+phase.
+
+Austria was among the teams that pressed a lot (130.7 P90), seventh team for pressure every 90 minutes during competition, and second, after Croatia, among teams that passed the group stage. 
+It placed sixth for PPDA during competition (8.4 PPDA), but he gave its best as soon as it lost the ball, it was the first team for number of counterpressure every 90 minutes (37.4 P90) during Euro 2020.
+
+Italy suffered the infernal pressure of Austria indeed it was the match with higher number of lost balls from Italy, 51 at the end of the match many more the average every 90 minutes during competitions (29 balls P90). 
+
+Austria tended to use counterpressure in the opposite half how it is clearly showed in the following plot. 
+
+<img width="391" height="288" alt="Austria Counterpressure zone" src="https://github.com/user-attachments/assets/fef16871-2df5-4358-ad40-70d0f62a365e" />
+*Heatmap show how Austria try to recovery ball faster after loss above the midfield or close to the area*
+
+Counterpressures was very effective during competitions, first team for balls recovered within 5 seconds of loss every 90 minutes (27.3 P90). 
+
+Furthermore Austria Used Counterpressures like a playmaker indeed Italy conceded 10 high pressure shots at the end of match, match in which he conceded more, with Spain it will be 6, the second highest figure. 
+
+As proof of the effectiveness of Austria's re-aggression, several of its players are positioned above the ninetieth percentile for Counterpressures (they will be Limer, Grillitsch, Schlager and Baumartner) and balls recovered within 5 seconds of the loss (Laimer, Schlager, Lainer, Baumartner and Sabitzer). 
+
+As anticipated, Belgium makes its players' talent with the ball its strong point. 
+
+Fortunately for Italy, Belgium entered the quarterfinals without a hazard, the player with the most dribbles completed during the tournament (3.8 P90) and with Kevin de Bruyne returning from the ankle injury suffered during the Round of 16 without considering the injury suffered in the champions final not completely recovered. 
+
+Hazard's absence was highly compensated by Jeremy Doku, who created the greatest dangers for Italy. 
+He was the player who produced the most progressive carries (12) during the match and who attempted (13) and completed (9) the most dribbles, giving Di Lorenzo a hard time. 
+Doku has played less than 180 minutes (he has only played 172), but taking this into consideration he would be positioned as the player who has carried out the most progressive carries (10.9 P90) and attempted and completed the most dribbles (9.9 and 5.2 P90 respectively) during competition. 
+It also caused the penalty that led Belgium to score their only goal. 
+
+<img width="335" height="278" alt="Belgium Pass network Italy vs Belgium" src="https://github.com/user-attachments/assets/99b6b310-85ed-44b3-bf1f-9ec20212e592" />
+*From the passing map it is clear that Doku was the player who received the highest of the pitch among the Belgian players, allowing him to create dangers near the Italian area with his dribbling and caries. 
+(Pass network show connections before the first replacement).*
+
+Even though he wasn't in perfect physical shape, the other big problem for Italy was Kevin De Bruyne, who played an excellent tournament in terms of moving the ball up the pitch to the opponent's area. 
+
+For 90 minutes, he was in the 100th percentile for Succefull Deep Pass Completition (2.8 P90) and in the 99th percentile for Succesfull Passes into Box (3.2 P90) and in the 96th percentile for Attempted Progressive Passes (16.5 P90) and Succesfull Progressive Passes (7.6 P90). 
+
+Despite the different qualities of their opponents, Italy managed to overcome both rounds. 
+Against Austria Italy succeeded thanks to some of the key players who raised their level and managed to play effectively even under pressure. 
+
+Jorginho and Verratti managed possession effectively under pressure, receiving 13 and 10 balls under pressure respectively (a higher number than the figure for 90 minutes during competition which reads 5.5 for Jorginho and 6 for Verratti) and having to play a high number of pressured passes (21 and 17 respectively, during competitions were 12 and 13 P90) with a success rate under pressure of 80% and 94%.
+Verratti ranked in the 99th percentile for passes attempted and completed under pressure and in the 90th for % of passes completed under pressure. 
+Their ability to withstand pressure allowed Italy to play according to their principles, handling the ball despite pressure. 
+
+Against Belgium, however, Italy decided to recover the ball more aggressively close to the opponent's goal.   
+The average height of gegenpressing during the tournament for Italy was 73 m while during the match it was 88 m, in fact increasing the average height of ball recovery which rose from 54 m in the tournament to 58 m during the match. 
+
+Note of merit for the Juventus defensive pair. 
+Chiellini and Bonucci in different ways were fundamental to winning the Cup. 
+Bonucci who supported Jorginho in getting the balls to arrive in the last third of the pitch, against Austria and Belgium Bonucci will complete respectively 8 and 6 progressive passes into the last 
+third of the pitch while Jorginho respectively 15 and 11 passes completed into the final third of the pitch. 
+Jorginho ranks in the 93rd percentile for passes completed in the final third of the pitch (8.4 P90) and Bonucci in the 97th percentile for progressive passes completed in the final third (5.6 P90) at the end of the tournament. 
+
+Chiellini's contribution on the other hand was purely defensive. 
+After missing the last match of the group stage and the round of 16 due to injury, he returned to the starting line- against Belgium, allowing the team's defensive level to be raised and marking Lukaku, Belgium's other weapon. 
+Lukaku will finish the tournament in the 93th percentile for npXG (0.37 P90) per 90 minutes and will only score from a penalty against Italy. 
+Chiellini's exceptional nature in the defensive phase can be seen in the data, specifically his dominance in the defense of his penalty area. 
+
+He is in fact in the 98th percentile for Tackles won in the penalty area adjusted per possession per 90 minutes (1.18 PAdj90) and the player who stopped the most dribbles in the penalty area per 90 minutes (0.79 P90) with 100% success (Chiellini was never dribbled past during the tournament) on the total and finally he 100% of aerial duels won in the penalty area. 
+All this at 36 years old after a cruciate injury. 
+
+<img width="482" height="336" alt="Chiellini defensive map" src="https://github.com/user-attachments/assets/c5a60d62-0a9f-47f3-b826-73a4bc2c7e71" />
+*The map of Chiellini's defensive actions during Euro 2020*
+
+Lorenzo Insigne's goal was also fundamental against Belgium, but his contribution went further. 
+He was the real glue between midfield and attack and Italy's true offensive playmaker, placing himself in the 98th percentile of the tournament for Succesfull Pass into Box (2.8 P90) and in 94th and 95th percentile for the Attempted (14.7 P90) and Succesfull Progressive Pass (7.3 P90) respectively and in 99th percentile Succesfull Deep Pass Completition (2.67 P90).
+
+The only discordant note was the serious injury to the achilles tendon of Leonardo Spinazzola, author of a superlative European Championship up to that point. 
+Until his injury he was the player who made the most Progressive Carries per 90 minutes (5.8 P90) after only Jack Grealish.
+
+Ultimately, despite the level of their opponents, Italy produced more npXG than their opponents in both matches.
+
+Creating 1.52 npXG vs 1.04 npXG against Austria and 1.04 npXG vs 1.01 npXG against Belgium.
+
+<img width="374" height="291" alt="Spinazzola progressive passes" src="https://github.com/user-attachments/assets/44c1381b-e075-42f6-a7dc-84606e2b4354" />
+*The map of Spinazzola's Progressive carries during Euro 2020*
+
+Luck certainly also played an important role in allowing the two rounds to pass, without the goal disallowed by Arnautovic for a few millimeters or the magnificent one scored by Federico Chiesa and the Spinazzola's save on Lukaku's shooting line the excellent performance of Mancini's boys probably wouldn't have been enough.
+
+In any case, Italy deserved to pass both rounds as also demonstrated by the npXG calculation, in fact in both matches, excluding any penalties, Italy produced more than its opponents. 
+
+## Semifinal: Italy vs Spain. 
+
+Having overcome the two previous rounds, Italy found Spain in the semi-final. 
+For the first time during the tournament Italy found itself in real difficulty. 
+The difficulties encountered by Italy against Spain are clearly visible in the statistics. 
+In fact, they recorded the lowest ball possession percentage of the tournament, lowering it by 22 percentage points from an average of 53% during the tournament to 31% against Spain.
+
+They also lost territorial dominance, lowering the Field Tilt from an average of 61.5% during the tournament to 24.6% and struggling to enter the opponent's area as demonstrated by only 23 touches in the opponent's area compared to the 42 averaged during tournament.
+
+<img width="405" height="309" alt="Italy Pass network Italy vs Spain" src="https://github.com/user-attachments/assets/f74aa05a-0034-443f-b95a-d5f0c35898ce" />
+*The pass map also shows how the Italian players had to keep an average position lower than usual, staying on average in their half of the pitch.*
+*The average position went from 63.8 m in possession to 55 m during the match. (Pass network show connections before the first replacement)*
+
+Even in the defensive phase, Italy was unable to challenge Spain for possession effectively, obtaining the highest PPDA value of its tournament 15.9 unlike the Spaniards who recorded it at 4.8, giving the ball to their opponents and focusing on a defense lower and less aggressive as demonstrated by the average height of defensive interventions which dropped by almost 5 m going from an average ADD of 48.2 m to 43.9 during the match.
+
+The difficulties encountered against Spain were predictable, in fact from many points of view they were the best team of the tournament. It is the one that recorded the highest percentage of ball possession (71.7 %) and Field Tilt (82.6 %) and it is the one that held the highest average position during the possession phase (66.7 m) and finally it is the one that recorded the highest number of touches in the opponent's third of the field(316.8 P90) and in the opponent's area (58.5 P90) per 90 minutes.
+
+<img width="359" height="287" alt="Fild Tilt for Team Euro 2020" src="https://github.com/user-attachments/assets/7a422a92-89eb-40aa-bf66-e23b0c0705fa" />
+
+Even in the defensive phase they were among the best, placing themselves as the team with the lowest PPDA of the tournament (4.9) and the highest ADD (58.9 m), showing high intensity without the ball and a willingness to recover the ball quickly and close to the area opponent's penalty, pressing right from the first opponent's construction. In fact it was the first for average height in pressing (58.7 m) and for ball recovery (61 m) tied with Poland in the latter statistic. 
+
+Only the grim Italian defense, which forced Spain to shoot on average from outside the area (16.6 m as the average distance of shots during the match against the 13 m held during the tournament) and a low precision in front of goal from the Spanish players as demonstrated by the 1.4 npXG produced by the Furie Rosse, and only one goal scored, compared to the 0.39 npXG of the Italians, not to mention a providential Federico Chiesa who brought Italy to the advantage, allowed, after Morata's draw, to go to penalties.
+
+Here, thanks also to the penalty saved by Gigi Donnarumma and the great coolness of the Azzurri, Italy managed to qualify for the final.
+
+## Finally the final: England vs Italy 
+
+Having overcome Spain, Italy found itself having to face England in the final with the advantage of playing at home in Wembley stadium.
+
+As if that wasn't enough, the match immediately got uphill due to the goal scored by England after just 2 minutes from a shot by Shaw following a cross by Trippier, from full-back to full-back.
+
+Despite the difficult start, Italy did not become disunited and played following its principles, pushing to score goals. 
+In fact, he had 65.5% of ball possession and 63.9% of Field Tilt, lowering England's ball possession to 34.4%, i.e. 15.6 percentage points lower than their average during the tournament. 
+England's Field Tilt also dropped from an average of 54.3% during the tournament to 36% in the match. 
+Italy also raised the intensity without the ball by actively trying to win the ball as shown by the PPDA value of 4.9 during the match. 
+The advantage that arrived so early certainly led England to concede the ball to their opponents, as the possession data shows, thinking first about defending themselves and not conceding a goal. 
+England's defense was passive having had a PPDA of 10.9 exactly in line with that held on average during the tournament, demonstrating that intense and effective pressing is not present among its game principles. 
+
+Even though Italy finished the first half behind, they did not give up and, continuing to push, found the goal scored by Bonucci after a melee in the area following a corner, taking the match to extra time and subsequently to penalties.  
+
+An interesting fact relating to the final is that after the goal conceded, Italy did not concede any shots on target to England. 
+
+<img width="390" height="287" alt="Italy Shots conceded vs England" src="https://github.com/user-attachments/assets/d244574c-6a1b-4ad2-b15f-11fcb8d88a11" />
+*Map of shots conceded by Italy in the final, excluding the goal of the other shots, no one is on target*
+
+In fact, Italy's offensive production was significantly higher then England as shown by the XG data. 
+The final scoreboard reads 2.08 npXG for Italy compared to 0.42 npXG for England.
+
+<img width="482" height="408" alt="XG Flow Italy vs England" src="https://github.com/user-attachments/assets/4e88114c-4388-4924-a9d9-c5358030dde7" />
+
+In the penalty lottery, as already happened against Spain, thanks to a fantastic Donnarumma author of 2 penalties saved and the one missed by Rashford, Italy won the final victory of the European Championship that had been missing since 1968.
+
+Note of merit also goes to Gianluigi Donnarumma who was the goalkeeper, like Yann Sommer, who had to face the highest number of penalties during the tournament (10) and was also the one who saved the most (3), on par with Unai Simon.
+He also ranked fifth goalkeeper along with Danny Ward for highest percentage of shots saved (76.9%) of the total, excluding penalties, making a huge contribution in achieving the victory.
+
+## Conclusion:
+
+In conclusion we can say that Italy deservedly won Euro 2020 and despite having shown an offensive game based on possession as per Italian tradition the defensive phase was the secret of the victory.
+
+In fact, as had already happened during the group stage, overall they were the team that conceded the least to their opponents. 
+They ranked as the team that conceded the least XG (0.66 P90) and least npXG (0.56 P90) per 90 minutes. 
+Furthermore, they were the team that conceded the fewest shots on target (1.58 P90) and the fewest non-penalty shots on target (1.46 P90) per 90 minutes.
+
+<img width="482" height="211" alt="Team Xg e XGA Euro 2020" src="https://github.com/user-attachments/assets/505405e3-bdcd-4320-801e-b6fbdfa09db4" />
+*Italy is the team that has conceded the fewest npXG and Shots on Targhet excluding penalties.*
+
+Also regarding goals conceded, Italy was the team that conceded the fewest after England and fewer goals per 90 minutes than expected.
+In fact, as we have seen, Italy conceded 0.66 XG every 90 minutes while collecting 0.49 Goals every 90 minutes.
+Even without considering penalties, Italy overperformed defensively, conceding, as already reported, 0.56 npXG per 90 minutes, but conceding 0.37 non-penalty goals per 90 minutes, proving that it is still true that attacks sell tickets and defenses win games.
+
+
+
+
+
+
+
+
